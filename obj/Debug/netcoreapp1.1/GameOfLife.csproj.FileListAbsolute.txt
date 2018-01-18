@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2017\Projects\Life\Life\bin\Debug\netcoreapp1.1\GameOfLife.deps.json
+c:\users\owner\documents\visual studio 2017\Projects\Life\Life\bin\Debug\netcoreapp1.1\GameOfLife.runtimeconfig.json
+c:\users\owner\documents\visual studio 2017\Projects\Life\Life\bin\Debug\netcoreapp1.1\GameOfLife.runtimeconfig.dev.json
+c:\users\owner\documents\visual studio 2017\Projects\Life\Life\obj\Debug\netcoreapp1.1\GameOfLife.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2017\Projects\Life\Life\obj\Debug\netcoreapp1.1\GameOfLife.AssemblyInfo.cs
+c:\users\owner\documents\visual studio 2017\Projects\Life\Life\bin\Debug\netcoreapp1.1\GameOfLife.dll
+c:\users\owner\documents\visual studio 2017\Projects\Life\Life\bin\Debug\netcoreapp1.1\GameOfLife.pdb
+c:\users\owner\documents\visual studio 2017\Projects\Life\Life\obj\Debug\netcoreapp1.1\GameOfLife.dll
+c:\users\owner\documents\visual studio 2017\Projects\Life\Life\obj\Debug\netcoreapp1.1\GameOfLife.pdb
